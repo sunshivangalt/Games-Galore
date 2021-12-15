@@ -1,0 +1,44 @@
+<DOCTYPE html>
+<html style="background-color:#0000FF" >
+body{
+   color: #FFFF00;
+   text-align: centre;
+   font-family: 'Arial', sans-serif;
+a:link, a:visited {
+ background-color: #0000FF;
+ color: Red;
+ padding: 15px 25px;
+ text-align: center;
+ text-decoration: none;
+ display: inline-block;
+}
+ 
+a:hover, a:active {
+ background-color: #A4031F;
+}
+ 
+h1 {
+ color: #A4031F;
+ font-family: 'Arial', sans-serif;
+}
+
+.my-link { 
+  font-size: 20px !important;
+  color: black !important;
+}
+
+.big{
+  font-size: 12px;
+}
+
+.button4{
+  border-radius: 8px;
+  }
+<title>Games Galore</title>
+<meta charset="utf-8">
+</head>
+<body>
+ <h1><b> WELCOME TO GAMES GALORE THE WEBSITE WHERE YOU CAN PLAYS WITHOUT ANY PROBLEMS 😏</b></h1>
+ 
+ <h2>INFORMATION</h2>
+ <p class="MEDIUM">The games here aren't mine and this webiste sole purpose is for providing you guys with games to play without any problems 😏 plz go support the creator of these games.
